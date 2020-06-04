@@ -1,0 +1,782 @@
+[
+  {
+    "rok": 2000,
+    "kraj": "swiat",
+    "ilosc": "6686,4"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Argentyna",
+    "ilosc": "114,5"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Bangladesz",
+    "ilosc": "35,0"
+  },
+  {
+  "rok": 2000,
+  "kraj": "Brazylia",
+  "ilosc": "579,7"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Chiny",
+    "ilosc": "2552,3"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Filipiny",
+    "ilosc": "49,5"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Gwatemala",
+    "ilosc": "18,6"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Hiszpania",
+    "ilosc": "42,9"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Indie",
+    "ilosc": "520,0"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Indonezja",
+    "ilosc": "204,3"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Korea Polnocna",
+    "ilosc": "63,0"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Kuba",
+    "ilosc": "32,2"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Laos",
+    "ilosc": "39,9"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Malawi",
+    "ilosc": "98,7"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Mozambik",
+    "ilosc": "9,5"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Pakistan",
+    "ilosc": "107,7"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Polska",
+    "ilosc": "29,5"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Stany Zjednoczone",
+    "ilosc": "477,8"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Tajlandia",
+    "ilosc": "60,6"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Tanzania",
+    "ilosc": "26,4"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Turcja",
+    "ilosc": "200,3"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Uganda",
+    "ilosc": "22,8"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Wietnam",
+    "ilosc": "27,1"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Wlochy",
+    "ilosc": "129,9"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Zambia",
+    "ilosc": "9,5"
+  },
+  {
+    "rok": 2000,
+    "kraj": "Zimbabwe",
+    "ilosc": "190,2"
+  },
+  {
+    "rok": 2005,
+    "kraj": "swiat",
+    "ilosc": "6721,3"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Argentyna",
+    "ilosc": "161,1"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Bangladesz",
+    "ilosc": "38,0"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Brazylia",
+    "ilosc": "889,4"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Chiny",
+    "ilosc": "2683,0"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Filipiny",
+    "ilosc": "45,1"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Gwatemala",
+    "ilosc": "15,8"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Hiszpania",
+    "ilosc": "40,3"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Indie",
+    "ilosc": "549,1"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Indonezja",
+    "ilosc": "153,5"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Korea Polnocna",
+    "ilosc": "65,4"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Kuba",
+    "ilosc": "26,0"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Laos",
+    "ilosc": "28,1"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Malawi",
+    "ilosc": "93,6"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Mozambik",
+    "ilosc": "65,0"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Pakistan",
+    "ilosc": "100,5"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Polska",
+    "ilosc": "33,5"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Stany Zjednoczone",
+    "ilosc": "292,6"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Tajlandia",
+    "ilosc": "72,0"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Tanzania",
+    "ilosc": "47,0"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Turcja",
+    "ilosc": "135,2"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Uganda",
+    "ilosc": "31,4"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Wietnam",
+    "ilosc": "25,9"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Wlochy",
+    "ilosc": "116,0"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Zambia",
+    "ilosc": "58,2"
+  },
+  {
+    "rok": 2005,
+    "kraj": "Zimbabwe",
+    "ilosc": "83,2"
+  },
+  {
+    "rok": 2010,
+    "kraj": "swiat",
+    "ilosc": "6944,9"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Argentyna",
+    "ilosc": "132,9"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Bangladesz",
+    "ilosc": "55,3"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Brazylia",
+    "ilosc": "784,8"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Chiny",
+    "ilosc": "3004,0"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Filipiny",
+    "ilosc": "40,5"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Gwatemala",
+    "ilosc": "26,9"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Hiszpania",
+    "ilosc": "33,4"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Indie",
+    "ilosc": "690,0"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Indonezja",
+    "ilosc": "135,7"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Korea Polnocna",
+    "ilosc": "72,0"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Kuba",
+    "ilosc": "20,5"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Laos",
+    "ilosc": "45,0"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Malawi",
+    "ilosc": "172,9"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Mozambik",
+    "ilosc": "67,0"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Pakistan",
+    "ilosc": "119,3"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Polska",
+    "ilosc": "34,8"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Stany Zjednoczone",
+    "ilosc": "325,8"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Tajlandia",
+    "ilosc": "59,5"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Tanzania",
+    "ilosc": "60,9"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Turcja",
+    "ilosc": "53,0"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Uganda",
+    "ilosc": "27,1"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Wietnam",
+    "ilosc": "56,5"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Wlochy",
+    "ilosc": "89,1"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Zambia",
+    "ilosc": "94,3"
+  },
+  {
+    "rok": 2010,
+    "kraj": "Zimbabwe",
+    "ilosc": "109,7"
+  },
+  {
+    "rok": 2015,
+    "kraj": "swiat",
+    "ilosc": "6838,7"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Argentyna",
+    "ilosc": "109,1"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Bangladesz",
+    "ilosc": "94,2"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Brazylia",
+    "ilosc": "867,4"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Chiny",
+    "ilosc": "2677,0"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Filipiny",
+    "ilosc": "56,2"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Gwatemala",
+    "ilosc": "28,4"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Hiszpania",
+    "ilosc": "29,5"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Indie",
+    "ilosc": "765,5"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Indonezja",
+    "ilosc": "193,8"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Korea Polnocna",
+    "ilosc": "81,1"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Kuba",
+    "ilosc": "24,5"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Laos",
+    "ilosc": "63,0"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Malawi",
+    "ilosc": "120,5"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Mozambik",
+    "ilosc": "81,8"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Pakistan",
+    "ilosc": "120,0"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Polska",
+    "ilosc": "27,3"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Stany Zjednoczone",
+    "ilosc": "326,2"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Tajlandia",
+    "ilosc": "61,1"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Tanzania",
+    "ilosc": "97,7"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Turcja",
+    "ilosc": "75,0"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Uganda",
+    "ilosc": "30,6"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Wietnam",
+    "ilosc": "37,8"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Wlochy",
+    "ilosc": "51,4"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Zambia",
+    "ilosc": "119,0"
+  },
+  {
+    "rok": 2015,
+    "kraj": "Zimbabwe",
+    "ilosc": "171,1"
+  },
+  {
+    "rok": 2016,
+    "kraj": "swiat",
+    "ilosc": "6399,1"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Argentyna",
+    "ilosc": "93,7"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Bangladesz",
+    "ilosc": "87,6"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Brazylia",
+    "ilosc": "677,5"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Chiny",
+    "ilosc": "2574,0"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Filipiny",
+    "ilosc": "56,5"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Gwatemala",
+    "ilosc": "29,7"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Hiszpania",
+    "ilosc": "29,2"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Indie",
+    "ilosc": "782,6"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Indonezja",
+    "ilosc": "126,7"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Korea Polnocna",
+    "ilosc": "82,4"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Kuba",
+    "ilosc": "19,7"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Laos",
+    "ilosc": "66,8"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Malawi",
+    "ilosc": "109,2"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Mozambik",
+    "ilosc": "93,0"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Pakistan",
+    "ilosc": "115,9"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Polska",
+    "ilosc": "31,2"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Stany Zjednoczone",
+    "ilosc": "285,2"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Tajlandia",
+    "ilosc": "61,4"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Tanzania",
+    "ilosc": "101,4"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Turcja",
+    "ilosc": "70,0"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Uganda",
+    "ilosc": "30,9"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Wietnam",
+    "ilosc": "29,2"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Wlochy",
+    "ilosc": "48,5"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Zambia",
+    "ilosc": "125,3"
+  },
+  {
+    "rok": 2016,
+    "kraj": "Zimbabwe",
+    "ilosc": "170,8"
+  },
+  {
+    "rok": 2017,
+    "kraj": "swiat",
+    "ilosc": "6501,6"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Argentyna",
+    "ilosc": "117,2"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Bangladesz",
+    "ilosc": "91,0"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Brazylia",
+    "ilosc": "880,9"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Chiny",
+    "ilosc": "2391,0"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Filipiny",
+    "ilosc": "51,0"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Gwatemala",
+    "ilosc": "29,5"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Hiszpania",
+    "ilosc": "29,7"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Indie",
+    "ilosc": "800,0"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Indonezja",
+    "ilosc": "152,3"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Korea Polnocna",
+    "ilosc": "83,3"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Kuba",
+    "ilosc": "30,8"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Laos",
+    "ilosc": "35,6"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Malawi",
+    "ilosc": "83,0"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Mozambik",
+    "ilosc": "91,1"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Pakistan",
+    "ilosc": "117,8"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Polska",
+    "ilosc": "32,5"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Stany Zjednoczone",
+    "ilosc": "322,1"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Tajlandia",
+    "ilosc": "67,0"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Tanzania",
+    "ilosc": "104,5"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Turcja",
+    "ilosc": "80,0"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Uganda",
+    "ilosc": "31,2"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Wietnam",
+    "ilosc": "32,1"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Wlochy",
+    "ilosc": "46,1"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Zambia",
+    "ilosc": "131,5"
+  },
+  {
+    "rok": 2017,
+    "kraj": "Zimbabwe",
+    "ilosc": "181,6"
+  }
+]

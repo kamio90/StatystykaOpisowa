@@ -1,0 +1,253 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>Zbiory Tytoniu</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h1>Zbiory Tytoniu na swiecie</h1>
+					<p>Przygotowal <span style="color: green">Kamil Musial 12390</span></p>
+				</section>
+				<section>
+					<h2>Dane: </h2>
+					<img  src="./img/DaneExcel.png" alt="zdjecie danych arkusza excel">
+				</section>
+				<section>
+					<h2>Przedstawienie danych na wykresie:</h2>
+					<canvas id="canvasIlosc"></canvas>
+				</section>
+				<section>
+					<section>
+						<h2>Wariancja</h2>
+						<p id="wariancja"></p>
+					</section>
+					<section>
+						<h2>O czym mowi nam wariancja?</h2>
+						<p>Wariancja informuje o tym, jak duże jest zróżnicowanie wyników w danym zbiorze wyników</p>
+					</section>
+					<section>
+						<h2>Co w naszym przypadku?</h2>
+						<p>Wynik naszej wariancji pokazuje nam, iz wyniki sa bardzo odlegle od siebie</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Rozstep</h2>
+						<p id="rozstep"></p>
+					</section>
+					<section>
+						<h2>O czym mowi nam rozstep?</h2>
+						<p>Jest to roznica miedzy najwieksza i najmniejsza wartoscia cechy statystyczniej w zbiorze</p>
+					</section>
+					<section>
+						<h2>Co w naszym przypadku?</h2>
+						<p>Wynik naszego rozstepu mowi nam ze nasze dane sa bardzo rozrzucone</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Mediana</h2>
+						<p id="mediana"></p>
+					</section>
+					<section>
+						<h2>O czym mowi nam mediana?</h2>
+						<p>Jest to wartosc cechy w szeregu uporzadkowanym, powyzej ktorej znajduje sie jednakowa liczba obserwacji.</p>
+					</section>
+					<section>
+						<h2>Co w naszym przypadku?</h2>
+						<p>Mowi nam ze kwantyl drugi naszych danych jest w tej wartosci</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Odchylenie Standardowe</h2>
+						<p id="odchylenie"></p>
+					</section>
+					<section>
+						<h2>O czym mowi nam odchylenie standardowe?</h2>
+						<p>Odchylenie mowi nam jak szeroko wartosci sa rozrzucone</p>
+					</section>
+					<section>
+						<h2>Co w naszym przypadku?</h2>
+						<p>Widac ze nasze wartosci sa bardzo odchylone od sredniej</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Korelacja Pearson'a</h2>
+						<p id="pearson"></p>
+					</section>
+					<section>
+						<h2>O czym mowi nam korelacja Persona?</h2>
+						<p>Jest to wspolczynnik, ktory sluzy do sprawdzenia czy dwie zmienne ilościowe są powiązane ze sobą związkiem liniowym</p>
+					</section>
+					<section>
+						<h2>Co w naszym przypadku?</h2>
+						<p>U nas wynik wspolczynnika pokazuje, ze wystepuje brak zwiazku liniowego</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Korelacja Spermana</h2>
+						<p id="spearman"></p>
+					</section>
+					<section>
+						<h2>O czym mowi nam korelacja Spermana?</h2>
+						<p>Jest to wspolczynnik, ktory sluzy do badania zaleznosci miedzy danymi</p>
+					</section>
+					<section>
+						<h2>Co w naszym przypadku?</h2>
+						<p>Nasz wynik pokazuje ze nastepuje brak zwiazku liniowego</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Skosnosc</h2>
+						<p id="skosnosc"></p>
+					</section>
+					<section>
+						<h2>O czym mowi nam skosnosc?</h2>
+						<p>Jest to miara rozkladu</p>
+					</section>
+					<section>
+						<h2>Co w naszym przypadku?</h2>
+						<p>Nasz wynik pokazuje, ze rozklad jest prawoskosny</p>
+					</section>
+				</section>
+				<section>
+					<section>
+						<h2>Kowariancja</h2>
+						<p id="kowariancja"></p>
+					</section>
+					<section>
+						<h2>O czym mowi nam kowariancja?</h2>
+						<p>Jest nieunormowaną miarą zależności liniowej pomiędzy dwiema zmiennymi</p>
+					</section>
+					<section>
+						<h2>Co w naszym przypadku?</h2>
+						<p>Nasz wynik pokazuje, ze nasze wartosci sa nie zabardzo ze soba zwiazane</p>
+					</section>
+				</section>
+			</div>
+		</div>
+
+		<script defer src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+		<script defer src="https://cdn.jsdelivr.net/npm/jstat@latest/dist/jstat.min.js"></script>
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+				margin: 0.2,
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	<script>
+
+		const parsedData = {
+			labels: [],
+			datasets: []
+		}
+		const kraj = [];
+		const ilosc = [];
+
+		document.addEventListener("DOMContentLoaded", () => main());
+		const main = () => {
+			console.log("aa");
+
+			fetch("./data.json").then(respond => respond.json()).then(respondJson => {
+				respondJson.forEach(el => {
+					parsedData.labels.unshift(el.kraj);
+					kraj.unshift(el.rok);
+					ilosc.unshift(parseFloat(el.ilosc));
+				});
+				// parsedData.datasets.push({
+				// 	label: "Rok",
+				// 	data: kraj,
+				// 	borderWidth: 1,
+				// 	backgroundColor: "#ca3e47"
+				// });
+				parsedData.datasets.push({
+					label: "Ilosc",
+					data: ilosc,
+					borderWidth: 1,
+					backgroundColor: "#701a20"
+				});
+
+				const ctx = document.getElementById("canvasIlosc").getContext("2d");
+				const myChart = new Chart(ctx, {
+					type: 'line',
+					data: parsedData,
+					options: {
+						legend: {
+							labels: {
+								fontColor: "white",
+								fontSize: 15
+							}
+						},
+						scales: {
+							yAxes: [{
+								ticks: {
+									fontColor: "white",
+									// fontSize: 12,
+									// beginAtZero: false
+								}
+							}],
+							xAxes: [{
+								ticks: {
+									fontColor: "white",
+									// fontSize: 12,
+									// beginAtZero: true
+								}
+							}]
+						}
+					}
+				})
+				//
+				const wariancja = document.getElementById("wariancja");
+				wariancja.innerText = parseFloat(jStat.variance(ilosc));
+				//
+				const rozstep = document.getElementById("rozstep");
+				rozstep.innerText = parseFloat(jStat.range(ilosc));
+				//
+				const mediana = document.getElementById("mediana");
+				mediana.innerText = parseFloat(jStat.meddev(ilosc));
+				//
+				const odchylenie = document.getElementById("odchylenie");
+				odchylenie.innerText = parseFloat(jStat.deviation(ilosc));
+				//
+				const pearson = document.getElementById("pearson");
+				pearson.innerText = parseFloat(jStat.corrcoeff(ilosc, kraj));
+				//
+				const spearman = document.getElementById("spearman");
+				spearman.innerText = parseFloat(jStat.spearmancoeff(kraj, ilosc));
+				//
+				const skosnosc = document.getElementById("skosnosc");
+				skosnosc.innerText = parseFloat(jStat.skewness(ilosc));
+				//
+				const kowariancja = document.getElementById("kowariancja");
+				kowariancja.innerText = parseFloat(jStat.spearmancoeff(kraj, ilosc));
+			});
+		}
+
+	</script>
+	</body>
+</html>
